@@ -24,8 +24,6 @@ dist/
 .env.*
 !.env.example
 
-# Generated scraper exports
-output/
 
 # Editor and operating-system files
 .DS_Store
